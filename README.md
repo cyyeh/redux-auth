@@ -6,11 +6,11 @@ This is the final project from the Udemy course - Advanced React with Redux. In 
 To run the project:
 
 - server side:
-	- in `react&redux/auth/server`, run `npm run dev`
+	- in `redux-auth/server`, run `npm run dev`
 
 - client side:
-	- in `react&redux/auth/client`, run `npm run start`
+	- in `redux-auth/client`, run `npm run start`
 
 - mongo db setup:
 	- install mongodb from its official website
-	- in `react&redux/auth/server`, run `mkdir -p data/db` 
+	- in `redux-auth/server`, run `mkdir -p data/db` 
